@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tasmia Bibi</h1>
+<h1 align="center">Hi 👋, I'm Tasmia </h1>
 <h3 align="center">Frontend Developer | React.js | Tailwind CSS | JavaScript | Passionate About Building Modern Web Applications</h3>
 
 <p align="center">
