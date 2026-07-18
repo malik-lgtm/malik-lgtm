@@ -102,8 +102,8 @@ https://github.com/malik-lgtm
 
 ## 📫 Connect With Me
 
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: tasmiazameer402@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in
 - 🌐 Portfolio: https://your-portfolio.vercel.app
 
 ---
