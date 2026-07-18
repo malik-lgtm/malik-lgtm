@@ -103,7 +103,7 @@ https://github.com/malik-lgtm
 ## 📫 Connect With Me
 
 - 📧 Email: tasmiazameer402@gmail.com
-- 💼 LinkedIn: in/tasmia-zameer
+- 💼 LinkedIn: https://www.linkedin.com/in/tasmia-zameer/
 - 🌐 Portfolio: https://my-portfolio-3nwt.vercel.app/
 
 ---
