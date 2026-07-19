@@ -28,7 +28,7 @@
 - Modern UI with Tailwind CSS
 
 🔗 Repository:
-https://github.com/malik-lgtm/e-commerce
+https://e-commerce-z79g.vercel.app/
 
 ---
 
@@ -39,7 +39,7 @@ https://github.com/malik-lgtm/e-commerce
 - Search & Booking Interface
 
 🔗 Repository:
-https://github.com/malik-lgtm/hotel-system
+https://hotel-system-8qil-omega.vercel.app/
 
 ---
 
@@ -50,7 +50,7 @@ https://github.com/malik-lgtm/hotel-system
 - Smooth Animations
 
 🔗 Repository:
-https://github.com/malik-lgtm
+https://my-portfolio-3nwt.vercel.app/
 
 ---
 
