@@ -102,7 +102,7 @@ https://my-portfolio-3nwt.vercel.app/
 
 ## 📫 Connect With Me
 
-- 📧 Email: tasmiazameer402@gmail.com
+- 📧 Email: tasmiazameer407@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/tasmia-zameer/
 - 🌐 Portfolio: https://my-portfolio-3nwt.vercel.app/
 
